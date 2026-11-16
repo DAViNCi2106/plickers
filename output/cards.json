@@ -1,0 +1,654 @@
+{
+  "cards": [
+    {
+      "card_id": 1,
+      "marker_id": 1,
+      "student_id": "STU001",
+      "student_name": "Arun Kumar",
+      "filename": "cards\\card_001.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 2,
+      "marker_id": 2,
+      "student_id": "STU002",
+      "student_name": "Priya Sharma",
+      "filename": "cards\\card_002.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 3,
+      "marker_id": 3,
+      "student_id": "STU003",
+      "student_name": "Rahul Verma",
+      "filename": "cards\\card_003.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 4,
+      "marker_id": 4,
+      "student_id": "STU004",
+      "student_name": "Sneha Iyer",
+      "filename": "cards\\card_004.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 5,
+      "marker_id": 5,
+      "student_id": "STU005",
+      "student_name": "Karthik Raj",
+      "filename": "cards\\card_005.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 6,
+      "marker_id": 6,
+      "student_id": "STU006",
+      "student_name": "Ananya Rao",
+      "filename": "cards\\card_006.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 7,
+      "marker_id": 7,
+      "student_id": "STU007",
+      "student_name": "Vikram Singh",
+      "filename": "cards\\card_007.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 8,
+      "marker_id": 8,
+      "student_id": "STU008",
+      "student_name": "Divya Nair",
+      "filename": "cards\\card_008.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 9,
+      "marker_id": 9,
+      "student_id": "STU009",
+      "student_name": "Aditya Menon",
+      "filename": "cards\\card_009.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 10,
+      "marker_id": 10,
+      "student_id": "STU010",
+      "student_name": "Meera Krishnan",
+      "filename": "cards\\card_010.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 11,
+      "marker_id": 11,
+      "student_id": "STU011",
+      "student_name": "Rohit Patel",
+      "filename": "cards\\card_011.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 12,
+      "marker_id": 12,
+      "student_id": "STU012",
+      "student_name": "Kavya S",
+      "filename": "cards\\card_012.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 13,
+      "marker_id": 13,
+      "student_id": "STU013",
+      "student_name": "Sanjay Prakash",
+      "filename": "cards\\card_013.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 14,
+      "marker_id": 14,
+      "student_id": "STU014",
+      "student_name": "Nisha Reddy",
+      "filename": "cards\\card_014.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 15,
+      "marker_id": 15,
+      "student_id": "STU015",
+      "student_name": "Akash Gupta",
+      "filename": "cards\\card_015.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 16,
+      "marker_id": 16,
+      "student_id": "STU016",
+      "student_name": "Pooja Das",
+      "filename": "cards\\card_016.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 17,
+      "marker_id": 17,
+      "student_id": "STU017",
+      "student_name": "Harish Babu",
+      "filename": "cards\\card_017.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 18,
+      "marker_id": 18,
+      "student_id": "STU018",
+      "student_name": "Aishwarya M",
+      "filename": "cards\\card_018.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 19,
+      "marker_id": 19,
+      "student_id": "STU019",
+      "student_name": "Naveen Kumar",
+      "filename": "cards\\card_019.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 20,
+      "marker_id": 20,
+      "student_id": "STU020",
+      "student_name": "Keerthana R",
+      "filename": "cards\\card_020.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 21,
+      "marker_id": 21,
+      "student_id": "STU021",
+      "student_name": "Siddharth Jain",
+      "filename": "cards\\card_021.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 22,
+      "marker_id": 22,
+      "student_id": "STU022",
+      "student_name": "Swathi Narayanan",
+      "filename": "cards\\card_022.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 23,
+      "marker_id": 23,
+      "student_id": "STU023",
+      "student_name": "Vishal Anand",
+      "filename": "cards\\card_023.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 24,
+      "marker_id": 24,
+      "student_id": "STU024",
+      "student_name": "Janani S",
+      "filename": "cards\\card_024.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 25,
+      "marker_id": 25,
+      "student_id": "STU025",
+      "student_name": "Mohammed Irfan",
+      "filename": "cards\\card_025.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 26,
+      "marker_id": 26,
+      "student_id": "STU026",
+      "student_name": "Lakshmi Priya",
+      "filename": "cards\\card_026.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 27,
+      "marker_id": 27,
+      "student_id": "STU027",
+      "student_name": "Aravind S",
+      "filename": "cards\\card_027.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 28,
+      "marker_id": 28,
+      "student_id": "STU028",
+      "student_name": "Shreya Kapoor",
+      "filename": "cards\\card_028.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 29,
+      "marker_id": 29,
+      "student_id": "STU029",
+      "student_name": "Pranav N",
+      "filename": "cards\\card_029.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 30,
+      "marker_id": 30,
+      "student_id": "STU030",
+      "student_name": "Deepika V",
+      "filename": "cards\\card_030.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 31,
+      "marker_id": 31,
+      "student_id": "STU031",
+      "student_name": "Ajay Krishnan",
+      "filename": "cards\\card_031.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 32,
+      "marker_id": 32,
+      "student_id": "STU032",
+      "student_name": "Bhavana R",
+      "filename": "cards\\card_032.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 33,
+      "marker_id": 33,
+      "student_id": "STU033",
+      "student_name": "Surya Prakash",
+      "filename": "cards\\card_033.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 34,
+      "marker_id": 34,
+      "student_id": "STU034",
+      "student_name": "Neha Agarwal",
+      "filename": "cards\\card_034.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 35,
+      "marker_id": 35,
+      "student_id": "STU035",
+      "student_name": "Ramesh K",
+      "filename": "cards\\card_035.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 36,
+      "marker_id": 36,
+      "student_id": "STU036",
+      "student_name": "Sanjana Devi",
+      "filename": "cards\\card_036.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 37,
+      "marker_id": 37,
+      "student_id": "STU037",
+      "student_name": "Abhishek T",
+      "filename": "cards\\card_037.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 38,
+      "marker_id": 38,
+      "student_id": "STU038",
+      "student_name": "Gayathri M",
+      "filename": "cards\\card_038.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 39,
+      "marker_id": 39,
+      "student_id": "STU039",
+      "student_name": "Varun Raj",
+      "filename": "cards\\card_039.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 40,
+      "marker_id": 40,
+      "student_id": "STU040",
+      "student_name": "Rithika S",
+      "filename": "cards\\card_040.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 41,
+      "marker_id": 41,
+      "student_id": "STU041",
+      "student_name": "Yash Shah",
+      "filename": "cards\\card_041.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 42,
+      "marker_id": 42,
+      "student_id": "STU042",
+      "student_name": "Pavithra N",
+      "filename": "cards\\card_042.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 43,
+      "marker_id": 43,
+      "student_id": "STU043",
+      "student_name": "Manoj Kumar",
+      "filename": "cards\\card_043.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 44,
+      "marker_id": 44,
+      "student_id": "STU044",
+      "student_name": "Ishita Mehta",
+      "filename": "cards\\card_044.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 45,
+      "marker_id": 45,
+      "student_id": "STU045",
+      "student_name": "Dinesh R",
+      "filename": "cards\\card_045.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 46,
+      "marker_id": 46,
+      "student_id": "STU046",
+      "student_name": "Harini B",
+      "filename": "cards\\card_046.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 47,
+      "marker_id": 47,
+      "student_id": "STU047",
+      "student_name": "Sathish Kumar",
+      "filename": "cards\\card_047.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 48,
+      "marker_id": 48,
+      "student_id": "STU048",
+      "student_name": "Tanya Bose",
+      "filename": "cards\\card_048.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 49,
+      "marker_id": 49,
+      "student_id": "STU049",
+      "student_name": "Gokul Nath",
+      "filename": "cards\\card_049.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    },
+    {
+      "card_id": 50,
+      "marker_id": 50,
+      "student_id": "STU050",
+      "student_name": "Anjali Menon",
+      "filename": "cards\\card_050.png",
+      "orientation_mapping": {
+        "0": "A",
+        "90": "B",
+        "180": "C",
+        "270": "D"
+      }
+    }
+  ]
+}
